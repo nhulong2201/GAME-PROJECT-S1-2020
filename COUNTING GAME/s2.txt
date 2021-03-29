@@ -1,0 +1,8 @@
+Limit	Max	Expected Potential numbers			Are the displayed results the same?
+
+30	3	1     5     9    13    17    21    25    29	yes
+
+20	2	1     4     7    10    13    16    19		yes
+
+41	4	5    10    15    20    25    30    35    40	yes
+

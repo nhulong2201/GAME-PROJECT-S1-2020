@@ -1,0 +1,7 @@
+turn	pot(1)	num	expected choices from computer	computer's choices
+
+5	7	2	[6,7]				[6,7]
+
+12	15	4	[13,14,15]			[13,14,15]
+
+21	22	3	[22]				[22]

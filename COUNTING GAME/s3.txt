@@ -1,0 +1,7 @@
+Array		User picks(A)	Last number of the turn(turn)	Expected array	Displayed array
+
+[2,5,8,11]	[1,2]		2				[5,8,11]	[5,8,11]
+
+[2,5,8,11]	[1,2,3]		3				[5,8,11]	[5,8,11]
+
+[5,9,13]	5		5				[9,13]		[9,13]

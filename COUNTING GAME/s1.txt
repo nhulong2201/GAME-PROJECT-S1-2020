@@ -1,0 +1,7 @@
+Limit & max	Expected limit &  max	Display
+
+30 & 3		30 & 3			30 & 3
+
+50 & 2		50 & 2			50 & 2
+
+38 & 4		38 & 4			38 & 4

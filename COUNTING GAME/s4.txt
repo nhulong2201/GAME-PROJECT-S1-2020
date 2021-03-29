@@ -1,0 +1,7 @@
+turn=pot(1)	num	expected choices from computer	computer's choices
+
+5		2	[6] or [6,7]			[6,7]
+
+17		3	[18] or [18,19] or [18,19,20]	[18,19]
+
+24		2	[25] or [25,26]			[25]

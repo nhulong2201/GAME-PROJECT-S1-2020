@@ -1,0 +1,7 @@
+N	turn(the last number in user's choices)		Display
+
+30	29						User won!!!
+
+40	40						Computer won!!!
+
+35	34						Computer won!!!
